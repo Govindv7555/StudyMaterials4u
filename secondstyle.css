@@ -1,0 +1,20 @@
+body {
+    background-color: rgb(39, 163, 246);
+    height: 100vh;
+    /* Add the desired background color for the section */
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.flex-wrap {
+    justify-content: center;
+}
+
+#hello {
+    background-color: rgb(112, 187, 253);
+    border-radius: 54px;
+}
